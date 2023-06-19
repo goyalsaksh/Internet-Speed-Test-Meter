@@ -19,8 +19,8 @@ Internet Speed Test Meter measures the speed of downloading and uploading of a n
      pip install speedtest-cli
      ```
      ## Application
-       ![demo](![Screenshot (187)](https://github.com/goyalsaksh/Internet-Speed-Test-Meter/assets/98030516/708fde4e-2d53-4cae-8f21-c8b23fce2f89))
-       ![demo](![Screenshot (188)](https://github.com/goyalsaksh/Internet-Speed-Test-Meter/assets/98030516/8ea73d73-61a9-4a87-9dcd-b82fae3b4b8e))
+       (![Screenshot (187)](https://github.com/goyalsaksh/Internet-Speed-Test-Meter/assets/98030516/708fde4e-2d53-4cae-8f21-c8b23fce2f89)
+       (![Screenshot (188)](https://github.com/goyalsaksh/Internet-Speed-Test-Meter/assets/98030516/8ea73d73-61a9-4a87-9dcd-b82fae3b4b8e)
 
 
                                                                                                                    

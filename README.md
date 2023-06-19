@@ -8,7 +8,7 @@ Internet Speed Test Meter measures the speed of downloading and uploading of a n
   For using Internet Speed Test Meter , user have to follow some instructions:
   1. Clone the Repo
      ```sh
-     git clone https://github.com/surabhi-paliwal/HelpForYou2.git
+     git clone https://github.com/goyalsaksh/Internet-Speed-Test-Meter.git
      ```
  2. Install packages
     ```sh

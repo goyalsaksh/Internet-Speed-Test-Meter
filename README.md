@@ -1,6 +1,6 @@
 # Internet-Speed-Test-Meter
 Internet Speed Test Meter measures the speed of downloading and uploading of a network.
-##Tech Stack Used
+  ## Tech Stack Used
 <img src="https://img.shields.io/badge/Python-ColourCode?logo=python&logoColor=yellow&style=ShieldStyle" />
 
 **Python** is the programming language used to create the sign recognition model. CV2, MediaPipe, NumPy, pickle and other libraries have also been utilized.
@@ -18,10 +18,9 @@ Internet Speed Test Meter measures the speed of downloading and uploading of a n
       ```sh
      pip install speedtest-cli
      ```
-     
-       ![demo](![Screenshot (187)](https://github.com/goyalsaksh/Internet-Speed-Test-Meter/assets/98030516/708fde4e-2d53-4cae-8f21-c8b23fce2f89)
-       ![demo](![Screenshot (188)](https://github.com/goyalsaksh/Internet-Speed-Test-Meter/assets/98030516/8ea73d73-61a9-4a87-9dcd-b82fae3b4b8e)
-)
-)
+     ## Application
+       ![demo](![Screenshot (187)](https://github.com/goyalsaksh/Internet-Speed-Test-Meter/assets/98030516/708fde4e-2d53-4cae-8f21-c8b23fce2f89))
+       ![demo](![Screenshot (188)](https://github.com/goyalsaksh/Internet-Speed-Test-Meter/assets/98030516/8ea73d73-61a9-4a87-9dcd-b82fae3b4b8e))
+
 
                                                                                                                    

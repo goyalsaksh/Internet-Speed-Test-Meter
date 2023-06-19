@@ -1,6 +1,6 @@
 # Internet-Speed-Test-Meter
 Internet Speed Test Meter measures the speed of downloading and uploading of a network.
-#Tech Stack Used
+##Tech Stack Used
 <img src="https://img.shields.io/badge/Python-ColourCode?logo=python&logoColor=yellow&style=ShieldStyle" />
 
 **Python** is the programming language used to create the sign recognition model. CV2, MediaPipe, NumPy, pickle and other libraries have also been utilized.

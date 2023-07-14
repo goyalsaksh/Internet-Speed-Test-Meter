@@ -2,6 +2,8 @@
 Internet Speed Test Meter measures the speed of downloading and uploading of a network.
   ## Tech Stack Used
 <img src="https://img.shields.io/badge/Python-ColourCode?logo=python&logoColor=yellow&style=ShieldStyle" /> <img src="https://img.shields.io/badge/tkinter-ColourCode?logo=tkinter&logoColor=blue&style=ShieldStyle" />
+
+
 **Python** is the programming language used to create the sign recognition model. CV2, MediaPipe, NumPy, pickle and other libraries have also been utilized.
   ## Installation
   For using Internet Speed Test Meter , user have to follow some instructions:
